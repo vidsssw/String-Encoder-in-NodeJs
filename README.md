@@ -36,6 +36,15 @@ Test Screenshots:
 
 (For a single length string, cannot shorten further thus decided to return same length encoded string)
 ![4](https://user-images.githubusercontent.com/51160533/68610605-23e9d800-04de-11ea-95f8-6595fec834b4.png)
-![Single] (3.png)
+![3](https://user-images.githubusercontent.com/51160533/68610604-23e9d800-04de-11ea-9165-73b8035ea005.png)
+
+(For input vidisha we get an encoded string and original string back)
+![5](https://user-images.githubusercontent.com/51160533/68610606-23e9d800-04de-11ea-878c-ab92f7d5edd9.png)
+![6](https://user-images.githubusercontent.com/51160533/68610601-23514180-04de-11ea-9956-5b7876b21299.png)
+
+(For input helloworld we get an encoded string and then original strig back)
+![1](https://user-images.githubusercontent.com/51160533/68610602-23514180-04de-11ea-9611-da642af3e6fe.png)
+![2](https://user-images.githubusercontent.com/51160533/68610603-23514180-04de-11ea-9dab-e7c514edbd9a.png)
+
 
 
