@@ -35,5 +35,7 @@ Used funct.js  as an external module. exported encode function. The output was s
 Test Screenshots:
 
 (For a single length string, cannot shorten further thus decided to return same length encoded string)
+[Single] (4.png)
+[Single] (3.png)
 
 
